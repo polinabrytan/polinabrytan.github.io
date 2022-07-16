@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+a {
+    font-size: 20px;
+    margin: 20px;
+    color: royalblue;
+}
+
+a:hover {
+    color: darksalmon;
+    background-color: lightblue;
+}
+
+selector {
+    background-color: palegreen;
+    color: navy;
+}
+
+selector {
+    color: gray;
+}
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 20px;
+}
+
+.catalog {
+    width: 870px;
+    height: 250px; 
+    background-color: rgb(182, 61, 132);
+}
+
+.product {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double rgb(113, 240, 102);
+    margin: 40px 0px 40px 80px;
+    background-color: rgb(170, 250, 159);
+}
+
+
